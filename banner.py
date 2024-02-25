@@ -11,3 +11,5 @@ file_name = './operator_list/six_star_prize.txt' # 奖品文件路径
 
 selected_prize = select_prize(file_name)
 print("恭喜你，你抽中了：", selected_prize.strip())
+
+
